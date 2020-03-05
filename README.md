@@ -13,7 +13,7 @@ This application consists of best animationts with *UIDynamicAnimator*, UI desig
 Lead iOS developer and team lead for iOS . Communicating with client, understanding requirements and sprint planning.
 
 ### Technologies ###
-Objective c, Reachability kit modified to add date support, CoreLocation, AVFoundation, Photos, Push Notifications with cloud messaging, Firebase Firestore, GoogleSignIn, FBSDKLoginKit, twitter-kit-ios, *Share Extension, *today Extension*, 3D touch enabled, Face id and thumb Sign in enabled
+Objective-c, Reachability Kit modified to add date support, CoreLocation, AVFoundation, Photos, Push Notifications with Cloud Messaging, Firebase Firestore, GoogleSignIn, FBSDKLoginKit, Twitter-kit-ios, Share Extension, 3D TouchEnabled, Face Id and Thumb Sign-in Enabled
 
 
 <p align="center">
