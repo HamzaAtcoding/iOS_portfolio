@@ -15,7 +15,7 @@ Senior iOS developer, My responsibilities were to communicate with the product o
 ### Technologies ###
 Swift, CoreData, AVFoundation, Photos, Core Location, SpriteKit, Keychain, Private frameworks
 <p align="center">
-<img src="https://github.com/HamzaAtcoding/iOS_portfolio/blob/master/images/phoneCheck/300x0w(1).jpg" width="230" title="Main">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/HamzaAtcoding/iOS_portfolio/blob/master/images/phoneCheck/300x0w(3).jpg" width="230" title="Button">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/SalamPlanet/SP3.jpg" width="230" title="Proximity">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/HamzaAtcoding/iOS_portfolio/blob/master/images/phoneCheck/300x0w(1).jpg" width="230" title="Main">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/HamzaAtcoding/iOS_portfolio/blob/master/images/phoneCheck/300x0w(3).jpg" width="230" title="Button">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/HamzaAtcoding/iOS_portfolio/blob/master/images/phoneCheck/300x0w(4).jpg" width="230" title="Proximity">
 </p>
 
 # Slick (Currently seeking VC)
