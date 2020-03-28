@@ -1,6 +1,23 @@
 Professionally taught iOS Engineer with 4+ years experience, 
-I have spent my career leading client-side iOS development in Denmark and Pakistan,
+I have spent my career leading client-side iOS development in United States, Denmark and Pakistan,
 I have done multiple iOS applications ranging from social apps, classified ads and fitness tracker.
+
+# [PhoneCheck](https://apps.apple.com/us/app/phonechecktesting/id1477041755)
+Phonecheck is a Complete Device Certification Solution
+
+Phonecheck Certified Devices sell faster, and for more money. Our easy to print labels integrate with any inventory system, and unique certification reports are generated for every device you scan.
+
+We also have made it easy to embed Phonecheck reports on your website as well as online listings like eBay.
+
+### My Role ###
+Senior iOS developer, My responsibilities were to communicate with the product owner, and implement the extended features, bug fixing.
+
+### Technologies ###
+Swift, CoreData, AVFoundation, Photos, Core Location, SpriteKit, Keychain, Private frameworks
+<p align="center">
+<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/SalamPlanet/SP1.jpg" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/SalamPlanet/SP2.jpg" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/shoaib-akhtar/iOS-Portfolio/blob/master/images/SalamPlanet/SP3.jpg" width="230" title="Spirituality">
+</p>
+
 # Slick (Currently seeking VC)
 slick is an articles sharing platform which enables you to rate article authenticity.
 **Curate** articles from Apps,Websites and Print Media
