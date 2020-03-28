@@ -10,7 +10,7 @@ Phonecheck Certified Devices sell faster, and for more money. Our easy to print 
 We also have made it easy to embed Phonecheck reports on your website as well as online listings like eBay.
 
 ### My Role ###
-Senior iOS developer, My responsibilities were to communicate with the product owner, and implement the extended features, bug fixing.
+Senior iOS developer for all three products (App Store, Enterprise, Client-Specific), My responsibilities were to communicate with the product owner, and implement the extended features, bug fixing.
 
 ### Technologies ###
 Swift, CoreData, AVFoundation, Photos, Core Location, SpriteKit, Keychain, Private frameworks
